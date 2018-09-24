@@ -20,7 +20,7 @@ Technical requrements:
 
 ## Requirements
 
-[Install docker](https://docs.docker.com/install/)
+[Install docker](https://docs.docker.com/install/)   
 [Install docker-compose](https://docs.docker.com/compose/install/)
 
 > Tested on docker version 17.03.2-ce and docker-compose version 1.22.0
