@@ -29,7 +29,7 @@ class CurrencyRate(db.Model):
                 self.currency, self.date, self.base)
 
 
-db.drop_all()
+#db.drop_all()
 # Idempotent
 db.create_all()
 
